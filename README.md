@@ -122,7 +122,7 @@
 
 #### **Developed By**: [TheNovaStudios](https://thenovastudios.github.io/)  
 
-#### **Official Page**: [Food Coma: More Foods](https://thenovastudios.github.io/project/0001)
+#### **Official Page**: [Food Coma: More Foods](https://thenovastudios.github.io/#/project/0001)
 
 #### **Contributions**:
 - **RoopMajumder** *(Coding)*
