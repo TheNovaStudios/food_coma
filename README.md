@@ -1,7 +1,8 @@
 # **Food Coma - More Food**
 
 **Version**: 1.0.0   
-**Minecraft Version**: 1.20.1 - 1.21
+**Minecraft Version**: 1.20.1 - 1.21  
+**Mod Loader**: Forge
 
 ---
 
